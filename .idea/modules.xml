@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Complexity/Complexity.iml" filepath="$PROJECT_DIR$/Complexity/Complexity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashLab/HashLab.iml" filepath="$PROJECT_DIR$/HashLab/HashLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedLists/LinkedLists.iml" filepath="$PROJECT_DIR$/LinkedLists/LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SearchCompare/SearchCompare.iml" filepath="$PROJECT_DIR$/SearchCompare/SearchCompare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringLab/StringLab.iml" filepath="$PROJECT_DIR$/StringLab/StringLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multidimarrays/multidimarrays.iml" filepath="$PROJECT_DIR$/multidimarrays/multidimarrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onedimarrays/onedimarrays.iml" filepath="$PROJECT_DIR$/onedimarrays/onedimarrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/schoolprojects.iml" filepath="$PROJECT_DIR$/.idea/schoolprojects.iml" />
+    </modules>
+  </component>
+</project>
